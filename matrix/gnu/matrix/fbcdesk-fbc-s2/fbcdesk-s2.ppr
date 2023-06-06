@@ -1,0 +1,50 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.CompileOnBackground=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+Compilator.LogEncoding=0
+DefaultDir=Z:\home\denis\freebasic\fbcdesk-s2
+DefaultCP=10065001
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+Extensions=*.*
+[Project tree]
+fbcdesk-s2
+	+fbcdesk-s2
+		+desk-s2
+			-Bak
+			-Res
+			-Mod
+			-Inc
+			desk-s2\desk-s2.bas
+			desk-s2\desk-s2.bi
+			desk-s2\jutsun-s2.bi
+			desk-s2\desk-s2.o
+			desk-s2\desk-s2.~bas
+			desk-s2\desk-s2
+[Open project files]
+0=desk-s2\desk-s2.bas
+1=desk-s2\desk-s2.bi
+2=desk-s2\jutsun-s2.bi
+3=desk-s2\jutsun-mister-s2.bas
+[Selected Project Files]
+Main=
+Selected=desk-s2\jutsun-mister-s2.bas
+[desk-s2\desk-s2.bas]
+TopLine=17
+Caret=1,45
+[desk-s2\desk-s2.bi]
+TopLine=1
+Caret=8,6
+[desk-s2\jutsun-s2.bi]
+TopLine=1480
+Caret=15,1486
+[desk-s2\jutsun-mister-s2.bas]
+TopLine=571
+Caret=3,586

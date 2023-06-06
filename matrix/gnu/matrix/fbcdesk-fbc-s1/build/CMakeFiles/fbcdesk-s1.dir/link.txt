@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfbcdesk-s1.a CMakeFiles/fbcdesk-s1.dir/fbcdesk-s1.cpp.o
+/usr/bin/ranlib libfbcdesk-s1.a

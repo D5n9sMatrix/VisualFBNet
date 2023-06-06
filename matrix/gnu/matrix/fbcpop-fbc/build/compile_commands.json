@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/freebasic/fbcpop-s1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/fbcpop-s1.dir/fbcpop-s1.cpp.o -c /home/denis/freebasic/fbcpop-s1/fbcpop-s1.cpp",
+  "file": "/home/denis/freebasic/fbcpop-s1/fbcpop-s1.cpp"
+}
+]

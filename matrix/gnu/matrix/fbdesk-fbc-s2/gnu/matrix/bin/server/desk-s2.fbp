@@ -1,0 +1,19 @@
+[Project]
+Version=3
+Description=desk-s2
+Api=fb (FreeBASIC)
+[Make]
+Current=1
+1=Library,fbc -lib
+Recompile=2
+Module=Module Build,fbc -c
+[TabOrder]
+TabOrder=
+[File]
+1=desk-s2.bas
+2=desk-s2.bi
+3=strong-s2.bi
+[BreakPoint]
+1=
+2=
+3=

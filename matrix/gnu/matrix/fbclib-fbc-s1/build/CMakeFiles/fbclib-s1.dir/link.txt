@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfbclib-s1.a CMakeFiles/fbclib-s1.dir/fbclib-s1.cpp.o
+/usr/bin/ranlib libfbclib-s1.a

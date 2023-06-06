@@ -1,0 +1,72 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.CompileOnBackground=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+Compilator.LogEncoding=0
+DefaultDir=Z:\home\denis\freebasic\fbcdesk-s1
+DefaultCP=10065001
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+Extensions=*.*
+[Project tree]
+fbcdesk-s1
+	+fbcdesk-s1
+		+desk-s1
+			-Bak
+				desk-s1\Bak\desk-s1(1).bas
+				desk-s1\Bak\desk-s1(1).bi
+				desk-s1\Bak\desk-s1(1).txt
+				desk-s1\Bak\desk-s1(2).bas
+				desk-s1\Bak\desk-s1(3).bas
+				desk-s1\Bak\e265-s1(1).bi
+				desk-s1\Bak\e265-s1(2).bi
+				desk-s1\Bak\e265-s1(3).bi
+				desk-s1\Bak\ff6icy-s1(1).bi
+				desk-s1\Bak\ff6icy-s1(2).bi
+			-Inc
+			-Mod
+			-Res
+			desk-s1\desk-s1
+			desk-s1\desk-s1.bas
+			desk-s1\desk-s1.bi
+			desk-s1\desk-s1.fbp
+			desk-s1\desk-s1.o
+			desk-s1\desk-s1.rc
+			desk-s1\desk-s1.txt
+			desk-s1\e265-s1
+			desk-s1\e265-s1.bi
+			desk-s1\e6put-s1.bi
+			desk-s1\ff6icy-s1
+			desk-s1\ff6icy-s1.bi
+			desk-s1\fox9tail.bi
+			desk-s1\fox9tail.~bi
+			desk-s1\fox9tail
+[Open project files]
+0=desk-s1\desk-s1.bas
+1=desk-s1\desk-s1.txt
+4=desk-s1\ff6icy-s1.bi
+6=desk-s1\fox9tail.bi
+[Selected Project Files]
+Main=desk-s1\desk-s1.bas
+Selected=New3.bas
+[desk-s1\desk-s1.bas]
+TopLine=31
+Caret=1,62
+[desk-s1\desk-s1.txt]
+TopLine=1
+Caret=1,1
+[desk-s1\ff6icy-s1.bi]
+TopLine=1
+Caret=1,1
+[desk-s1\fox9tail.bi]
+TopLine=1
+Caret=41,25
+[New3.bas]
+TopLine=1
+Caret=28,2

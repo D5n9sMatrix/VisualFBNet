@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdev-s7.a CMakeFiles/dev-s7.dir/dev-s7.cpp.o
+/usr/bin/ranlib libdev-s7.a

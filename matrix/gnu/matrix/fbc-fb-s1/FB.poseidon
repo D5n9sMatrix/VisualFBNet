@@ -1,0 +1,18 @@
+﻿[Project]
+ProjectName=fbc-s1
+Type=2
+MainFile=fbc-s1
+PassOneFile=ON
+TargetName=fbc-s1
+FocusOn=
+CompilerArgs=fbc -lib
+CompilerOption=fbc -static
+Comment=
+CompilerPath=Z:/home/denis/app/freebasic-win64/bin/fbc.exe
+[IncludeDirs]
+[LibDirs]
+[Sources]
+[Includes]
+[Others]
+[Misc]
+[Focus]

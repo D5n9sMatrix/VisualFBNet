@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfbdesk-s2.a CMakeFiles/fbdesk-s2.dir/fbdesk-s2.cpp.o
+/usr/bin/ranlib libfbdesk-s2.a

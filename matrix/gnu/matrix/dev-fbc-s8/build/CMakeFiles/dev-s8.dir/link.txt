@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdev-s8.a CMakeFiles/dev-s8.dir/dev-s8.cpp.o
+/usr/bin/ranlib libdev-s8.a

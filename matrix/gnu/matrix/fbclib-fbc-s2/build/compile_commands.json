@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/freebasic/fbclib-s2/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/fbclib-s2.dir/fbclib-s2.cpp.o -c /home/denis/freebasic/fbclib-s2/fbclib-s2.cpp",
+  "file": "/home/denis/freebasic/fbclib-s2/fbclib-s2.cpp"
+}
+]

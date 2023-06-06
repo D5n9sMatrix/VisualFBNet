@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfbcpop-s1.a CMakeFiles/fbcpop-s1.dir/fbcpop-s1.cpp.o
+/usr/bin/ranlib libfbcpop-s1.a
